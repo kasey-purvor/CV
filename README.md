@@ -1,3 +1,4 @@
+
 ## Kasey Purvor
 Mechanical Engineer highly motivated to break into software role. 
 
@@ -27,7 +28,7 @@ _Mechanical Design Engineer_
 - Test driven design
 
 **Overview LTD** (November 2018 to March 2020)  
-_MEchanical Design Engineer_
+_Mechanical Design Engineer_
 
 - Iterative Design
 - Numerical Analysis
@@ -55,14 +56,13 @@ Technologies & Frameworks Experience:
 
 #### University of Nottingham (September 2014 - July 2018)
 
-- MEchanical Engineering Integrated Masters (MEng) 
-- 2:1
+- MEchanical Engineering Integrated Masters (MEng) 2:1 
 - Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Energy Efficiency for sustainability.  
 
 #### A-Levels
 
-Maths - A
-Biology - A
+Maths - A  \
+Biology - A  \
 Physics - A
 ## Skills
 
@@ -100,6 +100,5 @@ Team workiung is something I have demonstrated thoughout my life, not just in ac
   University, I follow most international & top league fixtures and regularly attend games at Twickenham.
 
 - Music has always been something I am very passionate about. I began playing the piano aged 7 and finished
-  my grade 7 exams aged 17. Aside from playing music, I regularly attend music festivals and gigs with my
-  friends
-![image](https://user-images.githubusercontent.com/67878899/117158960-c921fb80-adb7-11eb-88b5-4c5781bbf94c.png)
+  my grade 7 exams aged 17. Aside from playing music, I regularly attend music festivals and gigs with my friends
+
