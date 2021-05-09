@@ -3,7 +3,7 @@
  ***Mechanical Engineer seeking to break into software role***
  ___
 [Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | 
-___
+
 
 Fasicnated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
 
@@ -30,7 +30,8 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > _Mechanical Design Engineer_  
 > #### Relevent SKills:
 >    - Design as part of a team 
->    - Solo Design Project Using Novel Concepts
+>    - Solo Design 
+>    - Research
 >    - Design to Standards 
 >    - Test driven design
 
@@ -44,12 +45,8 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 >    - Matlab 
 >    - Design to Standards 
 
-
-
-
-
 ## Education
-#### Makers Academy(February2021 to April 2021)
+#### Makers Academy (February2021 to April 2021)
 
 Software Languages:
 - Ruby 
