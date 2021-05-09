@@ -23,8 +23,8 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can rememeber, not just in acedemically or professionally, but in the lifestyle and hobbies I choose. 
 > - **Attenion To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimetre and the slightest miscalculation could cause serious injury or worse, attention to detail is not something I could have survived without. 
 
-## Work Experience ## (Mechanical Engineer)
-__porfolio link here__
+## Work Experience
+***(Mechanical Engineer)*** __porfolio link here__
 
 > ### **Servotest Testing Systems LTD** (March 2020 to January 2021)  
 > _Mechanical Design Engineer_  
