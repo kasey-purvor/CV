@@ -1,9 +1,10 @@
 
-# Kasey Purvor - ****Mechanical Engineer highly motivated to break into software role****
+# Kasey Purvor  
+***Mechanical Engineer seeking to break into software role***
 
-Without making excuses as to why, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life - driven by a desire to be challenged and rewarded. 
+Fasicnated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
 
-As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. My problem solving has been well demonstrated throughout my adedemic & proffessional career, this is what I love and do best. Having felt stagnant, unrewarded and unchallenged as a mechanical engineer; I feel there is no better industry for me than software. My enthusiasm is simply unrivalled for an industry where - anybody can create almost anything with little more than a laptop. I think of it like a frontier of human innovation, where all the newest most exiting creations are based, and I intend to find myself there.
+As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant, unrewarded and unchallenged as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
 
 ## Coding Projects (unfinished) 
 
@@ -12,7 +13,15 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 | **Student - Directory**      | Interactive program to manage the student lsit of Villains Acedemy | Ruby,             |
 | **Fizzbuzz**                 | Simple program that outputs different phrases dependant on integer input  | Ruby, Rspec       |
 
-## Work Experience (Mechanical Engineer)
+## SKills 
+
+- **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jepeardy I had to prove myself. A year on I had carved myself a new research/desinger role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invalubale, performing many techincal analysis and design tasks. ***link here*** 
+- **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughut my career. 
+- **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can rememeber, not just in acedemically or professionally, but in the lifestyle and hobbies I choose. 
+- **Attenion To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimetre and the slightest miscalculation could cause serious injury or worse, attention to detail is not something I could have survived without. 
+
+## Work Experience (Mechanical Engineer)![image](https://user-images.githubusercontent.com/67878899/117569254-b6137200-b0bc-11eb-88d9-dd81601e0219.png)
+
 __porfolio link here__
 
 ### **Servotest Testing Systems LTD** (March 2020 to January 2021)  
@@ -33,17 +42,7 @@ _Mechanical Design Engineer_
 - Matlab 
 - Design to Standards 
 
-## Skills
 
-#### Self-Starter 
-
-With particular reference to problems that begin from a place of no/little relevant knowledge - I actively seek out these tasks. During my employmnt at Servotest, as a newcomer during the pandemic, I was unable to be tutored through the information heavy design processs. I carved myself a role that almost exclusively dealt in problems that had not been encountered before - as nobody was better suited to them through experience. Designing ballistic safety screens to protect users from projectiled hydraulic equippment involved many new subjects: Health & saftey regulations for pressure systems, ballistic properties of tranluscent materials, identifying potential projectiles (as hydraulic components unfamiliar to me), projectile acceleration resulting from fluid pressure escape and impact mechanics - to name a few. The final product can be seen here(link to follow) and the calculations and theory behind the design can be viewed here( link coming). The relavent materials can be veiwed here. (link to follow).
-Additional projects can be seen here (link to follow) 
-
-
-#### Team Work 
-
-Team workiung is something I have demonstrated thoughout my life, not just in acedemia or profesionally but in the hobbies and activities I persue. A good demonstration of this was during my final year group design and make project, which I undertook with 3 others. OVer the course of 12 months the 4 of us set out to research, design and make a plasma surface modification machine. It had a plethora of moving parts; the research witch took nealy 9 months, the design work whcih began before the research was finished, the safety reviews and procedures (some of us recieved compressed gas training), the financial aproval (as the microwave amplifyer cost over £20000) and the requisition of all parts. THe project tested me and the teams abilities nearly to breaking point. In the end we succeded, project can be viewed here (link to follow) 
 
 
 ## Education
@@ -68,11 +67,6 @@ Technologies & Frameworks Experience:
 - Mechanical Engineering Integrated Masters (MEng) 2:1 
 - Specialisms in Glass viscometry, Heat-Transfer Thermodynamics, Polymer Engineering and Energy Efficiency for sustainability.  
 
-#### A-Levels
-
-Maths - A  \
-Biology - A  \
-Physics - A  
 
 ## Interests
 
