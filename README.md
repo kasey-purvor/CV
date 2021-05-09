@@ -70,7 +70,7 @@ Technologies & Frameworks Experience:
 
 ## Interests
 
-- Computers! Originally spured on by simply having a PC inadequate to play the games I was bought. I found myself learning everything I could about computer         hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to built my own computer from scratch     for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on.
+- Computers! Originally spured on by simply having a PC too slow to play the games I was bought. I found myself learning everything I could about computer         hardware. Obsessed with specs, I knew every hardware initialism on the market. Eventually after years of nagging/begging I was allowed to built my own computer from scratch     for my gaming exploits. It was probably one of the first SLI dual GPU machines around and I still have it now, 15 years on.
 
 - Mountain Sports. I began attending Scouts from age 9 and finished at 16. In that time, I had the privilege of
   accompanying my scout troop on countless trips and expeditions domestically and internationally; to places
