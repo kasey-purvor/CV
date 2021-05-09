@@ -9,7 +9,7 @@ Fasicnated by the technical subjects, by the time I graduated I knew little abou
 
 As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant, unrewarded and unchallenged as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
 
-## <a name='software _projects'> Software Projects (unfinished) </a>
+## <a name='software _projects'>Software Projects (unfinished)</a>
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
@@ -23,7 +23,7 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 > - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can rememeber, not just in acedemically or professionally, but in the lifestyle and hobbies I choose. 
 > - **Attenion To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimetre and the slightest miscalculation could cause serious injury or worse, attention to detail is not something I could have survived without. 
 
-## Work Experience (Mechanical Engineer)
+## <a name='work-experience'> Work Experience (Mechanical Engineer) </a>
 __porfolio link here__
 
 > ### **Servotest Testing Systems LTD** (March 2020 to January 2021)  
@@ -48,7 +48,7 @@ __porfolio link here__
 
 
 
-## Education
+## <a name='education'>Education</a>
 #### Makers Academy(February2021 to April 2021)
 
 Software Languages:
