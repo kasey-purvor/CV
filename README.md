@@ -1,46 +1,48 @@
 
-# Kasey Purvor  
-***Mechanical Engineer seeking to break into software role***
+# Kasey Purvor 
+ ***Mechanical Engineer seeking to break into software role***
+ ___
+
 
 Fasicnated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
 
 As a dependable and pragmatic fast learner, I am a confident person who thrives in challenging roles. Problem solving is what I love and do best. Having felt stagnant, unrewarded and unchallenged as a mechanical engineer; I feel there is no better industry for me than software. It is dynamic, rewarding and exiting - I think of it like a frontier of human innovation, and I intend to find myself there.
 
-## Coding Projects (unfinished) 
+## Software Projects (unfinished) 
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Student - Directory**      | Interactive program to manage the student lsit of Villains Acedemy | Ruby,             |
 | **Fizzbuzz**                 | Simple program that outputs different phrases dependant on integer input  | Ruby, Rspec       |
 
-## SKills 
+## Skills 
 
-- **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jepeardy I had to prove myself. A year on I had carved myself a new research/desinger role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invalubale, performing many techincal analysis and design tasks. ***link here*** 
-- **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughut my career. 
-- **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can rememeber, not just in acedemically or professionally, but in the lifestyle and hobbies I choose. 
-- **Attenion To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimetre and the slightest miscalculation could cause serious injury or worse, attention to detail is not something I could have survived without. 
+> - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jepeardy I had to prove myself. A year on I had carved myself a new research/desinger role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invalubale, performing many techincal analysis and design tasks. ***link here*** 
+> - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. 
+> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can rememeber, not just in acedemically or professionally, but in the lifestyle and hobbies I choose. 
+> - **Attenion To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimetre and the slightest miscalculation could cause serious injury or worse, attention to detail is not something I could have survived without. 
 
-## Work Experience (Mechanical Engineer)![image](https://user-images.githubusercontent.com/67878899/117569254-b6137200-b0bc-11eb-88d9-dd81601e0219.png)
-
+## Work Experience (Mechanical Engineer)
 __porfolio link here__
 
-### **Servotest Testing Systems LTD** (March 2020 to January 2021)  
-_Mechanical Design Engineer_  
-#### Relevent SKills 
-- Design as part of a team 
-- Solo Design Project Using Novel Concepts
-- Design to Standards 
-- Test driven design
+> ### **Servotest Testing Systems LTD** (March 2020 to January 2021)  
+> _Mechanical Design Engineer_  
+> #### Relevent SKills:
+>    - Design as part of a team 
+>    - Solo Design Project Using Novel Concepts
+>    - Design to Standards 
+>    - Test driven design
 
-### **Overview LTD** (November 2018 to March 2020)  
-_Mechanical Design Engineer_   
-#### Relevent SKills 
-- Design as part of a team 
-- Iterative Design
-- Numerical Analysis
-- Making of buisness cases for new technology purchases
-- Matlab 
-- Design to Standards 
+> ### **Overview LTD** (November 2018 to March 2020)  
+> _Mechanical Design Engineer_   
+> #### Relevent SKills 
+>    - Design as part of a team 
+>    - Iterative Design
+>    - Numerical Analysis
+>    - Making of buisness cases for new technology purchases
+>    - Matlab 
+>    - Design to Standards 
+
 
 
 
