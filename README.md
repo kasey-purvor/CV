@@ -24,7 +24,7 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 
 > - **Self Starter** - Starting a new engineering role during lockdown, I was unable to undergo training and therefore unable to design the heavily regulated products. With my job in jeopardy I had to prove myself. A year on I had carved myself a new research/designer role where I dealt with all manner of novel problems (where nobody had any experience) and proved myself invaluable, performing many technical analysis and design tasks. ***link here*** 
 > - **Adaptable** - Whether tackling new concepts or familiar problems, I approach everything with the same pragmatism and logic seen throughout my career. 
-> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight - is a well honed skill of mine. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. 
+> - **Team Player** - Knowing when to take a leadership role, be a motivator or to just ensure you pull your weight. Team working is has been a vital part of my life for as long as I can remember, not just in academically or professionally, but in the lifestyle and hobbies I choose. 
 > - **Attention To Detail** - Having worked in an industry where products are designed to within 1/1000th of millimeter and the slightest miscalculation could cause serious injury or worse, an eye for detail is not something I could have survived without. 
 
 ## Work Experience
