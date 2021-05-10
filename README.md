@@ -1,7 +1,7 @@
 # Kasey Purvor 
  ***Mechanical Engineer seeking to break into software role***
  ___
-[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | 
+[Software Projects](#software-projects) | [Skills](#skills) | [Work Experience](#work-experience) | [Education](#education) | [Interests](#interests) |
 
 
 Fascinated by the technical subjects, by the time I graduated I knew little about the industry I was to join. I was naïve, had all the technical knowledge and no clue what to expect. Two jobs and a pandemic later I find myself looking to make drastic changes to my life, driven by a desire to be challenged and rewarded. 
@@ -10,10 +10,15 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 
 ## Software Projects
 
-| Name | Description | Tech/tools |
-| ---------------------------- | ----------------- | ----------------- |
-| **Student - Directory** | Interactive program to manage the student list of Villains Academy | Ruby, |
-| **Fizz buzz** | Simple program that outputs different phrases dependent on integer input | Ruby, Rspec |
+| Name | Type | Description | Tech/tools |
+| ------ | ----------------- | ----------------- | ------ | 
+| <a href='https://github.com/kasey-purvor/gilded_rose_tech_test'> **Gilded Rose** </a> | Tech Test  | Test Designed to demonstrate ability to refactor and update existing code | Java-Script, Jasmine  |
+| <a href='https://github.com/kasey-purvor/bank-app-tech-test'> **Bank App** </a>| Tech Test | Simple command line program that mimmicks a bank account. Allows deposits, withdrawals, overdrafts and statements | Ruby, Rspec |  
+| <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | Group Project | Phone based wellbeing app that rewards users for journalling thoughts, provides motivational quotes and monitors progress | Java-Script MongoDB, React-Native, Express, Node.js, Expo, Jest |   
+| <a hrfef='https://github.com/ianmcnicholas/acebook-team.1'> **Acebook** </a> | Group Project | Heroku Deployed web-app that copies some of the core functionality of facebook. Full CRUD functionality for posts and respective comments, plus user sessions/database | Ruby-On-Rails, Rspec, SQLite3, Capybara, CircleCI, Heroku, Devise |   
+| <a href='https://github.com/kasey-purvor/chitter-challenge'> **Chitter** </a> | Solo Project | My first web app project that allows users to create accounts and post to a public feed | Ruby, RSpec, Sinatra, PostgrSQL, Capybara|   
+| <a href='https://github.com/kasey-purvor/bowling-challenge-web_app'> **Bowling Score App** <a/>| Solo Project | Web app that keeps track of 2 players bowling scores, applying strike & split score bonuses | Java-Script, Ruby, RSpec, JQuery, Sinatra, Capybara |
+
 
 ## Skills
 
