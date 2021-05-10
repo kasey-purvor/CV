@@ -17,7 +17,7 @@ As a dependable and pragmatic fast learner, I am a confident person who thrives 
 | <a href='https://github.com/kasey-purvor/Grappitude'> **Grappitude** </a> | Group Project | Phone based wellbeing app that rewards users for journalling thoughts, provides motivational quotes and monitors progress | Java-Script MongoDB, React-Native, Express, Node.js, Expo, Jest |   
 | <a href='https://github.com/ianmcnicholas/acebook-team.1'> **Acebook** </a> | Group Project | Heroku Deployed web-app that copies some of the core functionality of facebook. Full CRUD functionality for posts and respective comments, plus user sessions/database | Ruby-On-Rails, Rspec, SQLite3, Capybara, CircleCI, Heroku, Devise |   
 | <a href='https://github.com/kasey-purvor/chitter-challenge'> **Chitter** </a> | Solo Project | My first web app project that allows users to create accounts and post to a public feed | Ruby, RSpec, Sinatra, PostgrSQL, Capybara|   
-| <a href='https://github.com/kasey-purvor/bowling-challenge-web_app'> **Bowling Score App** <a/>| Solo Project | Web app that keeps track of 2 players bowling scores, applying strike & split score bonuses | Java-Script, Ruby, RSpec, JQuery, Sinatra, Capybara |
+| <a href='https://github.com/kasey-purvor/bowling-challenge-web_app'> **Bowling Score App** <a/>| Solo Project | Web app that keeps track of a players bowling scores, applying strike & split score bonuses | Java-Script, Ruby, RSpec, JQuery, Sinatra, Capybara |
 
 
 ## Skills
